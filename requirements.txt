@@ -1,0 +1,12 @@
+streamlit
+together
+deep-translator
+gtts
+PyPDF2
+SpeechRecognition
+pyaudio
+langchain
+langchain-community
+chromadb
+sentence-transformers
+
