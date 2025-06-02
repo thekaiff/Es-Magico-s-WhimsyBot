@@ -3,14 +3,16 @@
 ![LangChain](https://img.shields.io/badge/LangChain-Framework-blue)
 ![TogetherAI](https://img.shields.io/badge/TogetherAI-LLM-orange)
 ![Streamlit](https://img.shields.io/badge/Built%20With-Streamlit-ff4b4b)
-![License](https://img.shields.io/github/license/yourusername/whimsybot)
+![License](https://img.shields.io/github/license/thekaiff/whimsybot)
 ![Python](https://img.shields.io/badge/Python-3.10+-green)
 
 WhimsyBot is a voice-enabled, multilingual AI chatbot that delivers humorous answers to your questions using Retrieval-Augmented Generation (RAG) from classic literature. It supports text & voice input, speech output, cross-language queries, and even generates AI-powered images to bring stories to life.
 
 > 💡 Submitted as part of the AI Internship Task for Es Magico AI Studio.
 
+
 ---
+
 
 ## ✨ Features
 
@@ -22,7 +24,9 @@ WhimsyBot is a voice-enabled, multilingual AI chatbot that delivers humorous ans
 - 🎨 AI-generated images (TogetherAI Flux)
 - 📱 Intuitive Streamlit interface
 
+
 ---
+
 
 ## ⚙️ Installation
 
@@ -34,7 +38,9 @@ streamlit run app.py
 ```
 🔑 Make sure to set your TOGETHER_API_KEY as an environment variable.
 
+
 ---
+
 
 ## 📁 Project Structure
 
@@ -50,15 +56,18 @@ Es-Magico-s-Whimsybot/
 ├── README.md               # This file 
 ```
 
+
 ---
 
-##
 
 ## 📹 Video Demo
+
 Watch the full walkthrough of WhimsyBot in action:
 🎬 [Click to watch the demo video](./demo_video/demo.mp4)
 
+
 ---
+
 
 ## 🛠️ Tech Stack
 
@@ -69,7 +78,9 @@ Watch the full walkthrough of WhimsyBot in action:
 - deep-translator – Language detection and translation
 - Streamlit – Interactive UI
 
+
 ---
+
 
 ## 📝 Assignment Scope
 
@@ -82,7 +93,9 @@ This project fulfills all core and bonus criteria:
 - ✅ Audio input/output
 - ✅ Multilingual support
 
+
 ---
+
 
 ## 👋 Contact
 Feel free to reach out if you have feedback or ideas:
