@@ -3,7 +3,7 @@
 ![LangChain](https://img.shields.io/badge/LangChain-Framework-blue)
 ![TogetherAI](https://img.shields.io/badge/TogetherAI-LLM-orange)
 ![Streamlit](https://img.shields.io/badge/Built%20With-Streamlit-ff4b4b)
-![License](https://img.shields.io/github/license/thekaiff/whimsybot)
+![License](https://img.shields.io/github/license/thekaiff/Es-Magico-s-WhimsyBot)
 ![Python](https://img.shields.io/badge/Python-3.10+-green)
 
 WhimsyBot is a voice-enabled, multilingual AI chatbot that delivers humorous answers to your questions using Retrieval-Augmented Generation (RAG) from classic literature. It supports text & voice input, speech output, cross-language queries, and even generates AI-powered images to bring stories to life.
