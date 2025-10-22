@@ -101,6 +101,6 @@ This project fulfills all core and bonus criteria:
 Feel free to reach out if you have feedback or ideas:
 Kaif Anis Sayed
 - 📧 kaifsdkpro2@gmail.com
-- 🌐 [LinkedIn](https://www.linkedin.com/in/kaif-sayed-ab8405253/)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/kaifsayed57/)
 
 
