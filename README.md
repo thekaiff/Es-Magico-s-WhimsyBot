@@ -1,4 +1,4 @@
-# 🤖AI-Powered Multilingual Storytelling Chatbot
+# AI StoryBot (LangChain + RAG + TTS + Image Generation) 
 
 ![LangChain](https://img.shields.io/badge/LangChain-Framework-blue)
 ![TogetherAI](https://img.shields.io/badge/TogetherAI-LLM-orange)
